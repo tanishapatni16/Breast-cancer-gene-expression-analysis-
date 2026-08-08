@@ -7,6 +7,7 @@ Identify differentially expressed gene
 Visualize gene expression patterens
 perform functional enrichment analysis
 Interpret biological signficance
+
 #Methods
 
 Public gene expression dataset
@@ -15,16 +16,19 @@ Heatmap visualization
 Volcano plot 
 Gene ontology analysis
 Reactome pathway
+
 #Results
 
 Identification of significant differentially expressed genes
 Enriched biological pathways associated with breast cancer
 Visualization through heatmaps and Volcano plot
+
 #Tools used
 
 Python
 GEO
 Enricher
+
 #Author
 
 Tanisha patni
